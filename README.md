@@ -1,5 +1,5 @@
 # yarn-wars
-With the world now ruled by felines and yarn supply lower than ever, two feral cats find themselves throwing paws as they try to collect as many balls of yarn as possible whilst avoiding an out of control laser pointer. 
+With the world now ruled by felines and yarn supply lower than ever, two feral cats find themselves throwing paws as they try to collect as many balls of yarn as possible whilst avoiding an out-of-control laser pointer. 
 
 Game Design, Development, Art work and Sound by Shannon Paul 
 
