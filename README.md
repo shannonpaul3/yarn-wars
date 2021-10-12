@@ -18,6 +18,6 @@ _Controls:  _
   esc - exit  
   
   
-_To Execute:_  
+_To Execute, from Yarn Wars directory:_  
 
     python3 yarn_wars_main.py
